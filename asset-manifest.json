@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/alpha_mbl/static/css/main.f24110c7.css",
+    "main.js": "/alpha_mbl/static/js/main.bff4d9d4.js",
+    "static/js/488.69f848d5.chunk.js": "/alpha_mbl/static/js/488.69f848d5.chunk.js",
+    "index.html": "/alpha_mbl/index.html",
+    "main.f24110c7.css.map": "/alpha_mbl/static/css/main.f24110c7.css.map",
+    "main.bff4d9d4.js.map": "/alpha_mbl/static/js/main.bff4d9d4.js.map",
+    "488.69f848d5.chunk.js.map": "/alpha_mbl/static/js/488.69f848d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f24110c7.css",
+    "static/js/main.bff4d9d4.js"
+  ]
+}
